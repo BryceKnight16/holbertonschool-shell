@@ -25,7 +25,7 @@ ls -l
 Task 4  a script that displays current directory contents, including hidden files in long format
 
 #!/bin/bash
-ls -l
+ls -la
 
 Task 5  a script that lists all files in long format sorted numerically
 
