@@ -1,2 +1,2 @@
-\0;136;0c#!/bin/bash
+#!/bin/bash
 cat  /etc/ssh/sshd_config | grep "^[[:alpha:]]"
